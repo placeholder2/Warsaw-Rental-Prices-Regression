@@ -1,7 +1,7 @@
 # **Warsaw Rental Prices Regression** 
 
 
-[![Alt text](https://upload.wikimedia.org/wikipedia/commons/8/86/A_view_to_the_South_from_the_Palace_of_Culture_and_Science_in_Warsaw.jpg)](https://commons.wikimedia.org/wiki/File:A_view_to_the_South_from_the_Palace_of_Culture_and_Science_in_Warsaw.jpg)
+[![Alt text](https://raw.githubusercontent.com/placeholder2/Warsaw-Rental-Prices-Regression/main/A_view_to_the_South_from_the_Palace_of_Culture_and_Science_in_Warsaw.jpg)](https://commons.wikimedia.org/wiki/File:A_view_to_the_South_from_the_Palace_of_Culture_and_Science_in_Warsaw.jpg)
 
 ## **Goal of this project**
 Analysing and modeling data on price of rental apartments in Warsaw could be used in looking for and comparing the best offers or getting insight about what features are most important and how they impact rental price. All of which can be helpful to make decisions in both private and business sectors.
