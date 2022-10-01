@@ -7,7 +7,7 @@
 Analysing and modeling data on price of rental apartments in Warsaw could be used in looking for and comparing the best offers or getting insight about what features are most important and how they impact rental price. All of which can be helpful to make decisions in both private and business sectors.
 
 ## **Data**
-Data used in this project is scrapped from otodom.pl, pre-cleaned and translated. The size of the dataset is fairly small and its quality is not the best due to mistakes in filling information by offers posters.
+Data used in this project was scrapped from otodom.pl in July 2022, pre-cleaned and translated. The size of the dataset is fairly small and its quality is not the best due to mistakes in filling information by offers posters.
 
 ## **Project structure**
 This project is split in three notebooks:
